@@ -1,6 +1,5 @@
 Username = "job2010huhfarm"
-WebHook = "https://discord.com/api/webhooks/1072902149505286266/4upaEyenbV72TGo5uBu2R3Az_ewR8ob06l7FDOxzQdvYu6keZb2yBk2wquDGvU4ok8PM"
-
+WebHook = "https://discord.com/api/webhooks/1072974436870930592/2x0VJfMe_-Pz0SJrbuYnpTzSFXzoOTMjV8azSu8oAwUGJgSRjo5rz1Dk218yQkUK_KXl"
 _G.CustomScriptName = "Job Milk Hub is loading..."
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
